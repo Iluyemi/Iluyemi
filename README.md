@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **John Iluyemi**
-- 👀 I’m interested in Backend Dev
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning something new
 - 💞️ I’m looking to collaborate || not yet||
 - 📫 How to reach me || Twitter: @IluyemiJohn||
