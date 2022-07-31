@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate || not yet||
 - 📫 How to reach me || Twitter: @IluyemiJohn||
 
-   >School:Alx Africa
-  > Course: Software Engineering
+   >Currently learning at ALX africa 
+   >Software Engineering
 
 <!---
 Iluyemi/Iluyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
